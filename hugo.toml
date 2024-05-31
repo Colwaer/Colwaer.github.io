@@ -1,4 +1,4 @@
-baseURL = 'https://Colwaer.github.io'
+baseURL = 'https://colwaer.github.io'
 languageCode = 'zh-cn'
 title = 'Colwaer'
 theme = 'hugo-theme-stack'
