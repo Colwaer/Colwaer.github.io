@@ -1,4 +1,4 @@
 baseURL = 'https://colwaer.github.io'
 languageCode = 'zh-CN'
 title = 'Colwaer'
-theme = 'hugo-theme-stack'
+theme = 'stack'
